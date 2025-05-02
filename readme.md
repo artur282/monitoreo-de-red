@@ -49,7 +49,7 @@ Una aplicación moderna y eficiente para el monitoreo de tráfico de red en tiem
 1. Clona el repositorio:
 
 ```bash
-git clone [URL del repositorio]
+git clone https://github.com/artur282/monitoreo-de-red.git
 cd monitoreo-de-red
 ```
 
