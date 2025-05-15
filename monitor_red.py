@@ -3,7 +3,7 @@ import os
 import sys
 from views.main_view import MainView
 from controllers.network_controller import NetworkController
-
+# sudo "/home/arthur/Documents/proyectos/monitoreo de red/.venv/bin/python" "/home/arthur/Documents/proyectos/monitoreo de red/monitor_red.py"
 def check_permissions():
     """Verifica los permisos necesarios para la captura de paquetes."""
     if sys.platform != "win32":
