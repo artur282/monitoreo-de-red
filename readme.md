@@ -6,7 +6,6 @@
 
 Una aplicación moderna y eficiente para el monitoreo de tráfico de red en tiempo real, con interfaz gráfica intuitiva y capacidades de análisis detallado.
 
-![Banner del Proyecto]
 
 > 🚀 Visualiza y analiza el tráfico de tu red con una interfaz moderna y funcional
 
